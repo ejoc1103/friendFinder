@@ -1,20 +1,25 @@
 {
-  "name": "friendFinder",
+  "name": "hw11friendfind",
   "version": "1.0.0",
-  "description": "CodingBuddyFinder",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ejoc1103/friendFinder.git"
+    "url": "git+https://github.com/ejoc1103/hw11friendfind.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ejoc1103/friendFinder/issues"
+    "url": "https://github.com/ejoc1103/hw11friendfind/issues"
   },
-  "homepage": "https://github.com/ejoc1103/friendFinder#readme"
+  "homepage": "https://github.com/ejoc1103/hw11friendfind#readme"
 }
